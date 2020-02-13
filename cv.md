@@ -14,3 +14,4 @@
 * I have no programming experience, but I started learning 
 the basics at school RSchoole Fast. I have a great desire to 
 develop in this area.
+* Contact information: ittkirsan@gmail.com
